@@ -1,0 +1,28 @@
+---
+title: "Basic Report"
+author: "Dave Holtschlag"
+date: "March 3, 2018"
+output: html_document
+---
+
+## Overview
+
+
+## Load data
+
+```{r load_data}
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+
+```
+
+## Data visualization
+
+```{r data_viz}
+
+
+```
+
+## Discussion
+
